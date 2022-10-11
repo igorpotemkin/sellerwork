@@ -1,0 +1,374 @@
+1664370881102	geckodriver	INFO	Listening on 127.0.0.1:63260
+1664370884182	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63261" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AdmHost\\AppData\\Local\\Temp\\rust_mozprofileUjGXrf"
+1664370884373	Marionette	INFO	Marionette enabled
+1664370884376	Marionette	INFO	Listening on port 63271
+Read port: 63271
+WebDriver BiDi listening on ws://127.0.0.1:63261
+1664370884441	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AdmHost\\AppData\\Local\\Temp\\rust_mozprofileUjGXrf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63261/devtools/browser/32ce6cac-7d8f-4889-a8b1-9ccefead8f2d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://market.yandex.ru."
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 9: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 21: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 21: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.vendor.6d736cc.js, line 65: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://yastatic.net/s3/market-static/white-desktop/browser.vendor.6d736cc.js, line 6: ReducerCollisionError: There are two different reducers for "visibleSearchResult"
+1664370946581	geckodriver	INFO	Listening on 127.0.0.1:63352
+1664370949642	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63353" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AdmHost\\AppData\\Local\\Temp\\rust_mozprofilebx6nCe"
+1664370949836	Marionette	INFO	Marionette enabled
+1664370949839	Marionette	INFO	Listening on port 63363
+Read port: 63363
+WebDriver BiDi listening on ws://127.0.0.1:63353
+1664370949902	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AdmHost\\AppData\\Local\\Temp\\rust_mozprofilebx6nCe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63353/devtools/browser/37ab286d-adcb-408c-b8fd-edae7028db22
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://market.yandex.ru."
+1664371067620	geckodriver	INFO	Listening on 127.0.0.1:63474
+1664371070678	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63475" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AdmHost\\AppData\\Local\\Temp\\rust_mozprofileYrBwUU"
+1664371070873	Marionette	INFO	Marionette enabled
+1664371070876	Marionette	INFO	Listening on port 63485
+Read port: 63485
+WebDriver BiDi listening on ws://127.0.0.1:63475
+1664371070939	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AdmHost\\AppData\\Local\\Temp\\rust_mozprofileYrBwUU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63475/devtools/browser/661ec445-7a9d-403a-900b-85e98406f61e
+1664371134431	geckodriver	INFO	Listening on 127.0.0.1:63548
+1664371137490	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63549" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AdmHost\\AppData\\Local\\Temp\\rust_mozprofile76rxDa"
+1664371137682	Marionette	INFO	Marionette enabled
+1664371137685	Marionette	INFO	Listening on port 63562
+Read port: 63562
+WebDriver BiDi listening on ws://127.0.0.1:63549
+1664371137748	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AdmHost\\AppData\\Local\\Temp\\rust_mozprofile76rxDa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63549/devtools/browser/8d6bbf69-b8d0-43c0-9ca4-33fce83fc5d2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://market.yandex.ru."
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 9: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 21: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 21: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.vendor.6d736cc.js, line 65: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://yastatic.net/s3/market-static/white-desktop/browser.vendor.6d736cc.js, line 6: ReducerCollisionError: There are two different reducers for "visibleSearchResult"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://market.yandex.ru."
+ning command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63636" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AdmHost\\AppData\\Local\\Temp\\rust_mozprofilejHjkX9"
+1664371203136	Marionette	INFO	Marionette enabled
+1664371203139	Marionette	INFO	Listening on port 63648
+Read port: 63648
+WebDriver BiDi listening on ws://127.0.0.1:63636
+1664371203201	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AdmHost\\AppData\\Local\\Temp\\rust_mozprofilejHjkX9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63636/devtools/browser/b0366f76-34da-46ad-a28a-000cda692a50
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://market.yandex.ru."
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 9: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 21: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 21: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.vendor.6d736cc.js, line 65: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://yastatic.net/s3/market-static/white-desktop/browser.vendor.6d736cc.js, line 6: ReducerCollisionError: There are two different reducers for "visibleSearchResult"
+1664371213820	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://market.yandex.ru."
+1664371265737	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1664371265974	geckodriver	INFO	Listening on 127.0.0.1:63737
+1664371269052	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63738" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AdmHost\\AppData\\Local\\Temp\\rust_mozprofileMWu5Jq"
+1664371269243	Marionette	INFO	Marionette enabled
+1664371269245	Marionette	INFO	Listening on port 63749
+Read port: 63749
+WebDriver BiDi listening on ws://127.0.0.1:63738
+1664371269318	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1664371307515	geckodriver	INFO	Listening on 127.0.0.1:63773
+1664371310559	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63774" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AdmHost\\AppData\\Local\\Temp\\rust_mozprofilezNzUmw"
+1664371310752	Marionette	INFO	Marionette enabled
+1664371310755	Marionette	INFO	Listening on port 63786
+Read port: 63786
+WebDriver BiDi listening on ws://127.0.0.1:63774
+1664371310816	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AdmHost\\AppData\\Local\\Temp\\rust_mozprofilezNzUmw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63774/devtools/browser/750eec78-72d2-4761-b0d6-bb55e0767610
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://market.yandex.ru."
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 9: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 21: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 21: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.vendor.6d736cc.js, line 65: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://yastatic.net/s3/market-static/white-desktop/browser.vendor.6d736cc.js, line 6: ReducerCollisionError: There are two different reducers for "visibleSearchResult"
+1664371320992	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://market.yandex.ru."
+1664371373233	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 9: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 21: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 21: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.vendor.6d736cc.js, line 65: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://market.yandex.ru."
+1664371400070	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 9: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 21: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 21: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.vendor.6d736cc.js, line 65: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+rowser/3aeb4f44-81a8-4198-8852-919d606febb1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://market.yandex.ru."
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 9: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 21: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 21: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.vendor.6d736cc.js, line 65: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://yastatic.net/s3/market-static/white-desktop/browser.vendor.6d736cc.js, line 6: ReducerCollisionError: There are two different reducers for "visibleSearchResult"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://market.yandex.ru."
+1664371441355	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1664371442075	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1664371442918	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 9: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 21: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 21: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.vendor.6d736cc.js, line 65: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1664371492199	geckodriver	INFO	Listening on 127.0.0.1:64040
+1664371495238	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64041" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AdmHost\\AppData\\Local\\Temp\\rust_mozprofilep9sIHD"
+1664371495432	Marionette	INFO	Marionette enabled
+1664371495434	Marionette	INFO	Listening on port 64051
+Read port: 64051
+WebDriver BiDi listening on ws://127.0.0.1:64041
+1664371495496	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1664371499665	geckodriver	INFO	Listening on 127.0.0.1:64062
+1664371502722	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64063" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AdmHost\\AppData\\Local\\Temp\\rust_mozprofilePtVf4k"
+1664371502911	Marionette	INFO	Marionette enabled
+1664371502914	Marionette	INFO	Listening on port 64076
+Read port: 64076
+WebDriver BiDi listening on ws://127.0.0.1:64063
+1664371502975	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AdmHost\\AppData\\Local\\Temp\\rust_mozprofilePtVf4k\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64063/devtools/browser/773bdcaa-52ae-48ad-a2a0-b4e696db49e6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://market.yandex.ru."
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 9: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 21: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 21: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.vendor.6d736cc.js, line 65: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://yastatic.net/s3/market-static/white-desktop/browser.vendor.6d736cc.js, line 6: ReducerCollisionError: There are two different reducers for "visibleSearchResult"
+1664371576184	Marionette	INFO	Stopped listening on port 64076
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "64146" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AdmHost\\AppData\\Local\\Temp\\rust_mozprofileJ8Kw99"
+1664371568213	Marionette	INFO	Marionette enabled
+1664371568216	Marionette	INFO	Listening on port 64157
+Read port: 64157
+WebDriver BiDi listening on ws://127.0.0.1:64146
+1664371568281	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AdmHost\\AppData\\Local\\Temp\\rust_mozprofileJ8Kw99\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64146/devtools/browser/e5d7895e-4ff9-49d9-a2e5-1a2ec2384fc3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://market.yandex.ru."
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 9: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 21: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 21: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.vendor.6d736cc.js, line 65: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://yastatic.net/s3/market-static/white-desktop/browser.vendor.6d736cc.js, line 6: ReducerCollisionError: There are two different reducers for "visibleSearchResult"
+1664371574437	Marionette	INFO	Stopped listening on port 64157
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664371577958	geckodriver	INFO	Listening on 127.0.0.1:64216
+1664371610579	geckodriver	INFO	Listening on 127.0.0.1:64240
+1664371613646	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64241" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AdmHost\\AppData\\Local\\Temp\\rust_mozprofileBWZOQB"
+1664371613839	Marionette	INFO	Marionette enabled
+1664371613842	Marionette	INFO	Listening on port 64251
+Read port: 64251
+WebDriver BiDi listening on ws://127.0.0.1:64241
+1664371613906	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AdmHost\\AppData\\Local\\Temp\\rust_mozprofileBWZOQB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64241/devtools/browser/4919e06c-7052-4a6f-875c-95a85087a1af
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://market.yandex.ru."
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 9: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 21: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 21: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.vendor.6d736cc.js, line 65: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://yastatic.net/s3/market-static/white-desktop/browser.vendor.6d736cc.js, line 6: ReducerCollisionError: There are two different reducers for "visibleSearchResult"
+1664371742172	Marionette	INFO	Stopped listening on port 64251
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "64315" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AdmHost\\AppData\\Local\\Temp\\rust_mozprofile5ZDLMt"
+1664371629210	Marionette	INFO	Marionette enabled
+1664371629213	Marionette	INFO	Listening on port 64324
+Read port: 64324
+WebDriver BiDi listening on ws://127.0.0.1:64315
+1664371629292	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AdmHost\\AppData\\Local\\Temp\\rust_mozprofile5ZDLMt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64315/devtools/browser/bfbafc45-187b-4963-bddc-c1868a2dedb6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://market.yandex.ru."
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 9: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 21: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 21: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.vendor.6d736cc.js, line 65: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://yastatic.net/s3/market-static/white-desktop/browser.vendor.6d736cc.js, line 6: ReducerCollisionError: There are two different reducers for "visibleSearchResult"
+1664371639550	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1664371743562	Marionette	INFO	Stopped listening on port 64324
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "64387" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AdmHost\\AppData\\Local\\Temp\\rust_mozprofileIspMuL"
+1664371644521	Marionette	INFO	Marionette enabled
+1664371644524	Marionette	INFO	Listening on port 64398
+Read port: 64398
+WebDriver BiDi listening on ws://127.0.0.1:64387
+1664371644587	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AdmHost\\AppData\\Local\\Temp\\rust_mozprofileIspMuL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64387/devtools/browser/27707f6f-ea5d-4950-b3ce-b7203a1fd8ce
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://market.yandex.ru."
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 9: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 21: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 21: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.vendor.6d736cc.js, line 65: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://yastatic.net/s3/market-static/white-desktop/browser.vendor.6d736cc.js, line 6: ReducerCollisionError: There are two different reducers for "visibleSearchResult"
+1664371744883	Marionette	INFO	Stopped listening on port 64398
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "64463" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AdmHost\\AppData\\Local\\Temp\\rust_mozprofileUo2V0g"
+1664371659820	Marionette	INFO	Marionette enabled
+1664371659822	Marionette	INFO	Listening on port 64475
+Read port: 64475
+WebDriver BiDi listening on ws://127.0.0.1:64463
+1664371659885	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AdmHost\\AppData\\Local\\Temp\\rust_mozprofileUo2V0g\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64463/devtools/browser/31962fef-45c6-4ae4-8812-5766a5ff4b54
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://market.yandex.ru."
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 9: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 21: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 21: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.vendor.6d736cc.js, line 65: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://yastatic.net/s3/market-static/white-desktop/browser.vendor.6d736cc.js, line 6: ReducerCollisionError: There are two different reducers for "visibleSearchResult"
+1664371671298	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1664371746345	Marionette	INFO	Stopped listening on port 64475
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664371805886	geckodriver	INFO	Listening on 127.0.0.1:64623
+1664371808948	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64624" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AdmHost\\AppData\\Local\\Temp\\rust_mozprofilenjGt7l"
+1664371809145	Marionette	INFO	Marionette enabled
+1664371809148	Marionette	INFO	Listening on port 64634
+Read port: 64634
+WebDriver BiDi listening on ws://127.0.0.1:64624
+1664371809211	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AdmHost\\AppData\\Local\\Temp\\rust_mozprofilenjGt7l\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64624/devtools/browser/68e36e10-dcc2-485d-8877-755dab98d072
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://market.yandex.ru."
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 9: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 21: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 21: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.vendor.6d736cc.js, line 65: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://yastatic.net/s3/market-static/white-desktop/browser.vendor.6d736cc.js, line 6: ReducerCollisionError: There are two different reducers for "visibleSearchResult"
+1664371821203	geckodriver	INFO	Listening on 127.0.0.1:64698
+1664371824252	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64699" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AdmHost\\AppData\\Local\\Temp\\rust_mozprofilexnaKHZ"
+1664371824450	Marionette	INFO	Marionette enabled
+1664371824453	Marionette	INFO	Listening on port 64709
+Read port: 64709
+WebDriver BiDi listening on ws://127.0.0.1:64699
+1664371824516	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AdmHost\\AppData\\Local\\Temp\\rust_mozprofilexnaKHZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64699/devtools/browser/7748130b-23ef-4c83-9d05-ba9c536f7a45
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://market.yandex.ru."
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 9: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 21: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 21: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.vendor.6d736cc.js, line 65: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://yastatic.net/s3/market-static/white-desktop/browser.vendor.6d736cc.js, line 6: ReducerCollisionError: There are two different reducers for "visibleSearchResult"
+1664371836466	geckodriver	INFO	Listening on 127.0.0.1:64764
+1664371839514	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64765" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AdmHost\\AppData\\Local\\Temp\\rust_mozprofile41z2el"
+1664371839704	Marionette	INFO	Marionette enabled
+1664371839707	Marionette	INFO	Listening on port 64781
+Read port: 64781
+WebDriver BiDi listening on ws://127.0.0.1:64765
+1664371839770	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1664371851736	geckodriver	INFO	Listening on 127.0.0.1:64795
+1664371854796	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64796" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AdmHost\\AppData\\Local\\Temp\\rust_mozprofileWHxHye"
+1664371854995	Marionette	INFO	Marionette enabled
+1664371854998	Marionette	INFO	Listening on port 64806
+Read port: 64806
+WebDriver BiDi listening on ws://127.0.0.1:64796
+1664371855060	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AdmHost\\AppData\\Local\\Temp\\rust_mozprofileWHxHye\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64796/devtools/browser/116a6b19-3735-4bc1-a90d-95cac6fbbabc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://market.yandex.ru."
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 9: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 21: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 21: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.vendor.6d736cc.js, line 65: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://yastatic.net/s3/market-static/white-desktop/browser.vendor.6d736cc.js, line 6: ReducerCollisionError: There are two different reducers for "visibleSearchResult"
+1664371872162	geckodriver	INFO	Listening on 127.0.0.1:64865
+1664371875220	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64866" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AdmHost\\AppData\\Local\\Temp\\rust_mozprofile9uKQQu"
+1664371875415	Marionette	INFO	Marionette enabled
+1664371875418	Marionette	INFO	Listening on port 64875
+Read port: 64875
+WebDriver BiDi listening on ws://127.0.0.1:64866
+1664371875481	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1664371934095	geckodriver	INFO	Listening on 127.0.0.1:64936
+1664371937146	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64937" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AdmHost\\AppData\\Local\\Temp\\rust_mozprofileFCoygr"
+1664371937349	Marionette	INFO	Marionette enabled
+1664371937351	Marionette	INFO	Listening on port 64946
+Read port: 64946
+WebDriver BiDi listening on ws://127.0.0.1:64937
+1664371937418	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AdmHost\\AppData\\Local\\Temp\\rust_mozprofileFCoygr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64937/devtools/browser/ca063c05-f3f2-41b7-9769-fa5b9ee82c1e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://market.yandex.ru."
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 9: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 21: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 21: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.vendor.6d736cc.js, line 65: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://yastatic.net/s3/market-static/white-desktop/browser.vendor.6d736cc.js, line 6: ReducerCollisionError: There are two different reducers for "visibleSearchResult"
+1664371954515	geckodriver	INFO	Listening on 127.0.0.1:65007
+1664371957575	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65008" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AdmHost\\AppData\\Local\\Temp\\rust_mozprofileetheDJ"
+1664371957773	Marionette	INFO	Marionette enabled
+1664371957775	Marionette	INFO	Listening on port 65019
+Read port: 65019
+WebDriver BiDi listening on ws://127.0.0.1:65008
+1664371957839	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1664371979543	geckodriver	INFO	Listening on 127.0.0.1:65042
+1664371982592	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65043" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AdmHost\\AppData\\Local\\Temp\\rust_mozprofileS0Pf57"
+1664371982788	Marionette	INFO	Marionette enabled
+1664371982790	Marionette	INFO	Listening on port 65054
+Read port: 65054
+WebDriver BiDi listening on ws://127.0.0.1:65043
+1664371982853	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AdmHost\\AppData\\Local\\Temp\\rust_mozprofileS0Pf57\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65043/devtools/browser/1c995760-bb0b-49a7-9620-fe21a4bd1528
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://market.yandex.ru."
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 9: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 21: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 21: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.vendor.6d736cc.js, line 65: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://yastatic.net/s3/market-static/white-desktop/browser.vendor.6d736cc.js, line 6: ReducerCollisionError: There are two different reducers for "visibleSearchResult"
+1664371999802	geckodriver	INFO	Listening on 127.0.0.1:65113
+1664372002855	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65114" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AdmHost\\AppData\\Local\\Temp\\rust_mozprofileps0Yqu"
+1664372003047	Marionette	INFO	Marionette enabled
+1664372003050	Marionette	INFO	Listening on port 65126
+Read port: 65126
+WebDriver BiDi listening on ws://127.0.0.1:65114
+1664372003113	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1664372300684	geckodriver	INFO	Listening on 127.0.0.1:65287
+1664372303739	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65288" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AdmHost\\AppData\\Local\\Temp\\rust_mozprofileYYfod0"
+1664372303934	Marionette	INFO	Marionette enabled
+1664372303936	Marionette	INFO	Listening on port 65297
+Read port: 65297
+WebDriver BiDi listening on ws://127.0.0.1:65288
+1664372303998	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AdmHost\\AppData\\Local\\Temp\\rust_mozprofileYYfod0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65288/devtools/browser/ce7a7feb-f142-4915-9bb9-c1c4e706f84b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://market.yandex.ru."
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 9: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 21: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 21: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.vendor.6d736cc.js, line 65: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://yastatic.net/s3/market-static/white-desktop/browser.vendor.6d736cc.js, line 6: ReducerCollisionError: There are two different reducers for "visibleSearchResult"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://market.yandex.ru."
+1664372322156	Marionette	WARN	Ignoring event 'DOMContentLoad1664372324164	mozrunner::runner	INFO	Running command: "C:\\ProgJavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 9: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-des1664372324375	Marionette	INFO	Marionette enabled
+1664372324378	Marionette	INFO	Listening on port 65370
+WebDriver BiDi listening on ws://127.0.0.1:65357
+Read port: 65370
+1664372324628	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AdmHost\\AppData\\Local\\Temp\\rust_mozprofileC9J4IE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65357/devtools/browser/2de541b5-f9ec-4b9c-9245-cd086dc65737
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 9: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 21: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.stable.061b0fe.js, line 21: unreachable code after return statement
+JavaScript warning: https://yastatic.net/s3/market-static/white-desktop/browser.vendor.6d736cc.js, line 65: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://yastatic.net/s3/market-static/whit1664372330215	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65420" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AdmHost\\AppData\\Local\\Temp\\rust_mozprofileB1aP9I"
+1664372330404	Marionette	INFO	Marionette enabled
+1664372330407	Marionette	INFO	Listening on port 65436
+Read port: 65436
+WebDriver BiDi listening on ws://127.0.0.1:65420
+1664372330470	RemoteAgent	WARN	TLS certificate errors will be ignored for this session

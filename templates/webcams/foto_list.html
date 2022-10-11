@@ -1,0 +1,26 @@
+{% extends 'webcams/base.html' %}
+{% load def_action %}
+{% block content %}
+    {% get_list_files order as files %}
+    <div class="block">
+    {% for key,val in files.items %}
+        <div class="block-img">
+            <img src="http://ws002.smbg.local:8000/{{ val }}">
+            <div class="close" onclick="DelImg({{ key }})"></div>
+        </div>
+    {% endfor %}
+    </div>
+    <script>
+    function DelImg(pk) {
+        $.ajax({
+            url: "/webcams/cams_del/",
+            type: "POST",
+            data: {'pk': pk},
+            success: function (res) {
+                location.reload();
+
+            }
+        });
+    }
+    </script>
+{% endblock content %}
